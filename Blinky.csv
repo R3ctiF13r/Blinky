@@ -1,0 +1,8 @@
+ref;value;footprint;Field1;Field2;Field3;Field4;Field5;Field6
+BT1;CR232;CR2032H;;;;;;
+C1;1u;SM1206;;;;;;
+D1;LED;LED-1206;;;;;;
+R1;470k;SM1206;;;;;;
+R2;1k;SM1206;;;;;;
+U1;7555;SO8N;;;;;;
+VR1;LDR;R1;;;;;;

@@ -1,0 +1,22 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 1/13/2014 11:38:31 PM
+#Cmp ( order = Reference )
+| BT1        CR232       ;             ;             ;             ;             ;             ;             
+| C1         1u          ;             ;             ;             ;             ;             ;             
+| D1         LED         ;             ;             ;             ;             ;             ;             
+| R1         470k        ;             ;             ;             ;             ;             ;             
+| R2         1k          ;             ;             ;             ;             ;             ;             
+| U1         7555        ;             ;             ;             ;             ;             ;             
+| VR1        LDR         ;             ;             ;             ;             ;             ;             
+#End Cmp
+
+#Cmp ( order = Value )
+| CR232        BT1       ;             ;             ;             ;             ;             ;             
+| 1u           C1        ;             ;             ;             ;             ;             ;             
+| LED          D1        ;             ;             ;             ;             ;             ;             
+| 1k           R2        ;             ;             ;             ;             ;             ;             
+| 470k         R1        ;             ;             ;             ;             ;             ;             
+| 7555         U1        ;             ;             ;             ;             ;             ;             
+| LDR          VR1       ;             ;             ;             ;             ;             ;             
+#End Cmp
+
+#End List
